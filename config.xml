@@ -6,7 +6,7 @@
      PocketApp.in
     </author>
     
-    <preference name="windows-identity-name" value="26744SamareshBisoi.21906E7BA496D" />
+    
     
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
@@ -64,7 +64,5 @@
         <allow-intent href="itms-apps:*" />         
     </platform>   
     
-<platform name="winphone">    
-    <preference name="phonegap-version" value="cli-6.0.0" /> 
-</platform>    
+    
 </widget>
